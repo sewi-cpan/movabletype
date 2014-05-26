@@ -1,3 +1,6 @@
+This repository has been forked from the last open source commit of the official Movable Type repository.
+This program is distributed under the terms of the GNU General Public License, version 2.
+
 Welcome to Movable Type
 =============
 
